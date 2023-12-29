@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "####"
 
 messages = [{"role": "system", "content": "You are a personal fitness trainer specializing in health and wellness."}]
 
