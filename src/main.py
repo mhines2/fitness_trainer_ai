@@ -26,3 +26,4 @@ demo = gradio.Interface(fn=CustomFitnessAssistant, inputs="text", outputs="text"
 
 demo.launch(share=True)
 
+
