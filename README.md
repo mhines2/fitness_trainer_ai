@@ -1,1 +1,1 @@
-# fitness_trainer_ai
+# ai-personal-trainer
