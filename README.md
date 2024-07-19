@@ -1,1 +1,1 @@
-# ai-personal-trainer
+# personal-trainer-ai
